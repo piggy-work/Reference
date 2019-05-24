@@ -5,6 +5,7 @@
 ----
 * Python: </p>
 [Anaconda官網](https://www.anaconda.com/)
+[PyCharm官網](https://www.jetbrains.com/pycharm/)
 ----
 * CSharp-C#: </p>
 [C#教學](http://www.runoob.com/csharp/csharp-tutorial.html)
