@@ -1,7 +1,7 @@
 # Reference
 ## 目錄
 1. [Markdown](#markdown)
-1. [Level Beginner](#Level Beginner)
+1. [Level-Beginner](#Level-Beginner)
 1. [Python](#Python)
 1. [CSharp-C#](#CSharp-C#)
 
