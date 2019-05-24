@@ -3,7 +3,7 @@
 1. [Markdown](#markdown-)
 1. [Level-Beginner](#Level-Beginner-)
 1. [Python](#Python-)
-1. [CSharp-C#](#CSharp-C#-)
+1. [CSharp-C#](#CSharp-C-)
 
 ### Markdown: </p>
 * [Markdown 語法說明中文版](https://github.com/othree/markdown-syntax-zhtw)
