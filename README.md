@@ -9,7 +9,8 @@
 * [Markdown 語法說明中文版](https://github.com/othree/markdown-syntax-zhtw)
 ----
 ### Level Beginner: </p>
-* [w3schools](https://www.w3schools.com/)
+* [w3schools](https://www.w3schools.com/)</p>
+* [Codecademy](https://www.codecademy.com/learn):各程式語言基礎教學</p>
 ----
 ### Python: </p>
 * [Anaconda官網](https://www.anaconda.com/)</p>
